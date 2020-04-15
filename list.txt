@@ -9,6 +9,11 @@ Meat :
 Sausages
 
 Dairy :
+milk 
+egg
+yogurt
+butter
+cheese
 
 Household :
 
