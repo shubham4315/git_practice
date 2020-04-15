@@ -12,6 +12,11 @@ beef
 pork
 
 Dairy :
+milk 
+egg
+yogurt
+butter
+cheese
 
 Household :
 
