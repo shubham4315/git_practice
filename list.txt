@@ -7,6 +7,9 @@ apples
 
 Meat :
 Sausages
+lamb 
+beef
+pork
 
 Dairy :
 
